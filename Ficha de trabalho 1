@@ -1,0 +1,49 @@
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>
+    Javascript - Exercicio 1
+  </title>
+</head>
+<body>
+  <script type="text/javascript">
+  "use strict";
+
+  var a=13, b=25, resultado;
+  var quebraLinha = "<br />";
+
+  //Operadores aritméticos
+  document.write("a + b = ");
+  resultado=a + b;
+  document.write(resultado);
+  document.write(quebraLinha);
+
+  document.write("a - b = ");
+  resultado = a - b;
+  document.write(resultado);
+  document.write(quebraLinha);
+
+  document.write("a * b = ");
+  resultado = a * b;
+  document.write(resultado);
+  document.write(quebraLinha);
+
+  document.write("a / b = ");
+  resultado = a / b;
+  document.write(resultado);
+  document.write(quebraLinha);
+
+  document.write("a % b = ");
+  resultado = a % b;
+  document.write(resultado);
+  document.write(quebraLinha);
+
+  </script>
+  <noscript>
+    O Javascript não está disponível!
+  </noscript
+
+
+</body>
+</html>
